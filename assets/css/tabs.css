@@ -1,0 +1,23 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  header {
+    height: 10vh;
+  }
+  .intro-video {
+    height: 65vh;
+  }
+  .desc1-overlay h1 {
+    width: 80% !important;
+  }
+  .desc1-overlay p {
+    width: 50%;
+  }
+  .desc1 {
+    height: 35vh;
+  }
+  .slider-sec {
+    height: 35vh;
+  }
+  .desc-plus .desc1-overlay h2 {
+    width: 65%;
+  }
+}/*# sourceMappingURL=tabs.css.map */

@@ -1,0 +1,60 @@
+@media (min-width : 992px) and (max-width : 1199px) {
+
+    .sticky {
+        height: 11vh !important;
+    }
+
+
+    header{
+        height: 10vh;
+    }
+
+    .intro-video{
+        height: 65vh;
+    }
+
+    .desc1-overlay{
+        h1{
+            width: 80% !important;
+        }
+        p{
+            width: 50% !important;
+        }
+    }
+
+    .desc1 {
+        height: 50vh !important;
+        padding-bottom: 2% !important;
+        h1{
+            font-size: 5vw !important;
+        }
+    }
+
+    .slider-sec{
+        height: 45vh;
+    }
+
+    .desc-plus .desc1-overlay h2 {
+        width: 65%;
+    }
+
+    .projects-section{
+        .projects-card{
+            height: 300px;
+        }
+    }
+
+    .desc-plus {
+        height: 35vh;
+    }
+
+}
+
+
+
+
+@media (min-height: 1000px) and (min-width: 1400px){
+    .slider-sec {
+        height: 55vh !important;
+    }
+}

@@ -1,0 +1,84 @@
+@media (min-width : 768px) and (max-width : 991px) {
+    header{
+        height: 8vh;
+    }
+
+    .sticky{
+        height: 12vh;
+    }
+
+    .intro-video{
+        height: 65vh;
+    }
+
+    .desc1-overlay{
+        h1{
+            width: 60% !important;
+            font-size: 45px !important;
+        }
+        p{
+            width: 50% !important;
+        }
+    }
+
+    .desc1 {
+        height: 39vh !important;
+        padding-bottom : 2% !important;
+        padding-top: 0px !important;
+    }
+
+    .slider-sec{
+        height: 70vh;
+    }
+
+    .desc-plus .desc1-overlay h2 {
+        width: 45%;
+        font-size: 45px;
+    }
+
+    .projects-section{
+        .projects-card{
+            height: 300px;
+        }
+    }
+
+    .desc-plus {
+        height: 35vh;
+    }
+
+    .about-us{
+        .about-overlay{
+            height: 210px !important;
+            top: 39%;
+        }
+    }
+
+    .about-collection{
+        height: 400px !important;
+    }
+
+    footer .location-div {
+        width: 85%;
+        height: 350px;
+        margin: 0px 0px 0px auto;
+    }
+
+
+}
+
+
+@media (min-height : 900px) {
+    .slider-sec {
+        height: 55vh;
+    }
+}
+
+
+
+
+
+@media (min-height : 1200px) {
+    .slider-sec {
+        height: 50vh;
+    }
+}

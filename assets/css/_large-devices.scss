@@ -1,0 +1,47 @@
+@media (min-height: 800px) and (min-width: 1400px) {
+    .sticky{
+        height: 12vh;
+    }
+
+    .description-section{
+        .desc1{
+            padding: 2% 0px !important;
+            height: 31vh;
+        }
+    } 
+
+
+    .desc-plus {
+        height: 21vh;
+    }
+
+    .slider-sec{
+        height: 31vh;
+    }
+    
+}
+
+
+@media (min-height: 800px) and (min-width: 2100px) {
+    .sticky{
+        height: 8vh;
+    }
+
+
+    .description-section{
+        .desc1{
+            padding: 2% 0px !important;
+            height: 55vh;
+        }
+    } 
+
+
+    .desc-plus {
+        height: 35vh;
+    }
+
+    .slider-sec{
+        height: 55vh;
+    }
+
+}
